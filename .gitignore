@@ -3,3 +3,17 @@ headers/libBeaEngine.so
 **.pyc
 lib
 build
+*.sdf
+*.log
+*.lastbuildstate
+*.tlog
+*.obj
+*.pdb
+*.ilk
+*.idb
+BE_Test/ReadMe.txt
+x64/Debug/BE_Test.lib
+x64/Debug/BE_Test.exp
+x64/Debug/BE_Test.exe
+x64/Debug/beaengine.lib
+x64/Release/beaengine.lib
